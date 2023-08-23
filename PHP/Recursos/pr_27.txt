@@ -1,0 +1,3 @@
+Prueba de funciones de archivos
+Prueba de PHP
+Nuevo curso de PHP avanzadoEscribiendo dentro del fichero
