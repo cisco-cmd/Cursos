@@ -1,0 +1,26 @@
+.menu {
+    height: 3rem;
+    width:101%;
+}
+
+.sobre {
+    background-color: #a7a7a780;
+    transform: rotate(20deg);
+    font-size: 1.5rem;
+    margin-top: 10%;
+    margin-left: 70%;
+}
+
+.titulo {
+    font-size: 1.6rem;
+}
+
+.imagen {
+    margin-top:1rem;
+    margin-bottom: 1rem;
+    width: 5rem;
+}
+
+.pelis {
+    width: 10rem;
+}
